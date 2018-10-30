@@ -1,0 +1,23 @@
+{
+  "name": "grappus-frontend-styleguide",
+  "version": "0.0.1",
+  "authors": ["Nishant Singh <nishant@grappus.com>"],
+  "description": "Grappus Frontend Style Guide",
+  "main": "index.html",
+  "keywords": [
+    "Grappus",
+    "frontend",
+    "style",
+    "guide",
+    "react style guide",
+    "vue style guide"
+  ],
+  "license": "MIT",
+  "homepage": "http://grappus.com",
+  "private": true,
+  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"],
+  "dependencies": {
+    "normalize.css": "~3.0.2",
+    "font-awesome": "~4.4.0"
+  }
+}
